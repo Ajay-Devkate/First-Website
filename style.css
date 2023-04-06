@@ -116,7 +116,7 @@
  /* top-banner */
 
  .top-banner {
-     background-image: url('./assets/asset\ 32.png');
+     background-image: url('asset\ 32.png');
      background-color: red;
      background-size: 600px;
  }
@@ -321,7 +321,7 @@ width: 23%;
 position: relative;
 min-height: 300px;
 background: black;
-background:linear-gradient(rgba(0, 0, 0, 0.300), rgba(0, 0, 0, 0.300)), url(assets/asset\ 36.jpeg);
+background:linear-gradient(rgba(0, 0, 0, 0.300), rgba(0, 0, 0, 0.300)), url(asset\ 36.jpeg);
 background-size: cover;
 border-radius: 20px;
 }
@@ -331,7 +331,7 @@ border-radius: 20px;
     position: relative;
     min-height: 300px;
     background: black;
-    background:linear-gradient(rgba(0, 0, 0, 0.300), rgba(0, 0, 0, 0.300)), url(assets/asset\ 37.jpeg);
+    background:linear-gradient(rgba(0, 0, 0, 0.300), rgba(0, 0, 0, 0.300)), url(asset\ 37.jpeg);
     background-size: cover;
     border-radius: 20px;
 }
@@ -341,7 +341,7 @@ border-radius: 20px;
     position: relative;
     min-height: 300px;
     background: black;
-    background:linear-gradient(rgba(0, 0, 0, 0.300), rgba(0, 0, 0, 0.300)), url(assets/asset\ 38.jpeg);
+    background:linear-gradient(rgba(0, 0, 0, 0.300), rgba(0, 0, 0, 0.300)), url(asset\ 38.jpeg);
     background-size: cover;
     border-radius: 20px;
 }
@@ -352,7 +352,7 @@ border-radius: 20px;
     position: relative;
     min-height: 300px;
     background: black;
-    background:linear-gradient(rgba(0, 0, 0, 0.300), rgba(0, 0, 0, 0.300)), url(assets/asset\ 39.jpeg);
+    background:linear-gradient(rgba(0, 0, 0, 0.300), rgba(0, 0, 0, 0.300)), url(asset\ 39.jpeg);
     background-size: cover;
 }
 .example-area h3 {
